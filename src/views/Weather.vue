@@ -105,30 +105,6 @@ export default {
   background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
 }
 
-#search-container {
-  color: azure;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-#search-btn {
-  color: azure;
-  width: 280px;
-  padding: 2px 4px;
-  margin: 8px 0;
-  font-size: 20px;
-  border-radius: 5px;
-  background-color: #222f3c;
-  outline: none;
-  border: none;
-}
-
-#search-btn:hover {
-  background-color: #212d3a;
-}
-
 #weather-box {
   color: azure;
   display: flex;
